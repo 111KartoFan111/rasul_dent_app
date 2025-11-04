@@ -43,3 +43,12 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/android/.gradle/
+/android/captures/
+/android/build/
+# Android Studio local configuration file
+/android/local.properties
+# Flutter generated plugin registrant
+/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+# Node modules
+/rasul-dent-backend/node_modules
